@@ -257,5 +257,9 @@ header h1 {
   text-align: center;
   border-radius: 10px;
   color: #FFFFFF;
+  cursor: pointer;
   background-color: #17A2B8;
+}
+.home .content-pick .destination .btn:hover {
+  background-color: #117a8b;
 }
